@@ -6,4 +6,5 @@ Vehicle owners can register their vehicles with the system, and the gate authori
 
 The Gate Entry Management System is an important tool for organizations that need to manage large volumes of people and vehicles at entry and exit points. The system improves security, streamlines the entry/exit process, and provides valuable data and insights that can be used to optimize gate management. Overall, the Gate Entry Management System is a critical component of modern gate management systems and helps organizations to improve their overall operational efficiency.
 
-The project includes a python code file with a menu-driven approach in the terminal. Also included are the ER diagrams, the relational schema and the documentation for the project.
+The project includes a python code file with a menu-driven approach in the terminal. Also included are the ER diagrams, the relational schema and the documentation for the project. This was a part of our CS F211 Database System course at BITS Pilani, Pilani. 
+Caution: The project might contain some errors.
